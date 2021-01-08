@@ -1,10 +1,10 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 
 //NOTES: Everything should work as the rubric states. Correct mapping/printing of adj matrix as well as print in Topological order and cycle detection.
 //gcc -o a.out courses_graph.c
 //valgrind --leak-check=full ./a.out
 //No valgrind errors
-//If there are any problems please contact me (alexander.rollison@mavs.uta.edu)as my way of passing 2D arrays was different than how people normally pass 2D arrays.
+//If there are any problems please contact me (alexander.rollison@mavs.uta.edu)as my way of passing 2D arrays was different than how people normally pass 2D arrays (I know how to pass 2D arrays, first param 2nd size, second param 2d array).
 
 //Special case file (special.txt): All courses have the same prereq so it's pointless to have a topo sort
 
